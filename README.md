@@ -1,4 +1,6 @@
 - Ola Ryos aqui, criador de tirinhas e estudante de DBA
+- ✍️ Faço animações 
+- 🎮 Gamer nas horas vagas <br>
 <div align="center">
   <a href="https://github.com/kauaryos">
 </div>
