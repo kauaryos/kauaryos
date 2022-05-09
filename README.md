@@ -18,3 +18,5 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+ <img src="https://c.tenor.com/3BAPGN0ezbYAAAAC/donkey-kong.gif" target="_blank"></a> 
