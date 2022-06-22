@@ -1,4 +1,4 @@
-- Ola Ryos aqui, criador de tirinhas e estudante de DBA
+- Ola Ryos aqui, criador de animações 2d e estudante de DBA
 ##
 
 <div>
