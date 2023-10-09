@@ -12,11 +12,9 @@ Olá, eu sou Kauã Ryos, um apaixonado por programação e arte. Meu objetivo é
 </div>
  
 
-<div> 
-  <a href="https://instagram.com/kauaryos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:kauaryos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kau%C3%A3-ryos-81a171231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/kauaryos)
+[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/kauaryos_)
+[![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.youracclaim.com/users/kauaryos/badges)
 
  
