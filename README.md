@@ -1,12 +1,24 @@
-<div style="text-align: center;">
-  <p>Olá, eu sou Kauã Ryos, um apaixonado por programação e arte. Meu objetivo é unir essas duas paixões em minha vida. Junte-se a mim nessa jornada criativa! 💻🎨</p>
+```markdown
+👋 Welcome to Kauã Ryos' Profile!
+📊 Database Administrator
 
-  <div style="text-align: center;">
-    <h2 style="font-size: 24px; font-weight: bold;">Links</h2>
-    <a href="http://linkedin.com/in/kauaryos"><img src="https://img.shields.io/badge/-linkedin-0073B1?style=flat-square" alt="LinkedIn"></a>
-    <a href="https://twitter.com/kauaryos"><img src="https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square" alt="Twitter"></a>
-    <a href="https://www.credly.com/users/kaua-ryos/badges"><img src="https://img.shields.io/badge/-badges-2D4E00?style=flat-square" alt="Badges"></a>
-  </div>
 
-  <p><a href="https://twitter.com/bastaodetirinha">Visite minha página de Tirinhas!</a></p>
-</div>
+Passionate about programming and art, I aim to unite these two passions. Join me on this creative journey! 💻🎨
+```
+
+#### 🚀 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0073B1?style=flat-square)](http://linkedin.com/in/kauaryos) [![Twitter](https://img.shields.io/badge/-Twitter-1C9CEA?style=flat-square)](https://twitter.com/kauaryos) [![Badges](https://img.shields.io/badge/-Badges-2D4E00?style=flat-square)](https://www.credly.com/users/kaua-ryos/badges)
+
+📰 [Visit my Comics Page](https://twitter.com/bastaodetirinha)
+
+```markdown
+🔧 Technologies & Skills
+- SQL
+- Database Design
+- Data Modeling
+- Data Analysis
+- Python
+- Art & Design
+```
+
